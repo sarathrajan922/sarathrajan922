@@ -14,12 +14,10 @@
 - **Secure 🛡️**
 - **Load blazing fast 🚀**
 - **SEO Optimized 🔍**
-- **Crafted with pixel-perfect code ✨**
+
 
 
 <br/>
-<br/>
-
 <br/>
 
 # 💻 Tech Stack:
