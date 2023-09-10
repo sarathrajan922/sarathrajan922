@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
@@ -47,8 +47,8 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/node-js-javascript-web-server-scalable-vector-graphics-chrome-v8-vue-js-5b619bdaf2840e99d57f52cd30a7970b_v6sb5f.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/typescript_alt_icon_131915.png"></code>&nbsp;&nbsp;
-<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332634/tech%20stack%20logos/bootstrap-responsive-web-design-web-development-logo-django-others-d7ec880588af75918aa8bc2ad69bd1a4_iicqdr.png"></code>&nbsp;&nbsp;
-<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/mean-solution-stack-express-js-node-js-javascript-github-acfc77777dd3c5165cd1ac3f95631063_tnw94d.png"></code>&nbsp;&nbsp;
+<code><img height="80" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332634/tech%20stack%20logos/bootstrap-responsive-web-design-web-development-logo-django-others-d7ec880588af75918aa8bc2ad69bd1a4_iicqdr.png"></code>&nbsp;&nbsp;
+<code><img height="70" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/mean-solution-stack-express-js-node-js-javascript-github-acfc77777dd3c5165cd1ac3f95631063_tnw94d.png"></code>&nbsp;&nbsp;
 </p>
 
 <br/>
