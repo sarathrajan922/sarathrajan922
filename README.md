@@ -47,7 +47,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="[https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png](https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/node-js-javascript-web-server-scalable-vector-graphics-chrome-v8-vue-js-5b619bdaf2840e99d57f52cd30a7970b_v6sb5f.png)"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/node-js-javascript-web-server-scalable-vector-graphics-chrome-v8-vue-js-5b619bdaf2840e99d57f52cd30a7970b_v6sb5f.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
