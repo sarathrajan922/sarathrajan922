@@ -67,7 +67,7 @@
 
 
 <p align="center">
-<img align="center" width="100%" src="[https://git-stats.sarathrajan922/](https://github-readme-stats.vercel.app/api?username=sarathrajan922&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)" alt="Sarath's Public Github Stats">
+![](https://github-readme-stats.vercel.app/api?username=sarathrajan922&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p>  
 
 # 📊 GitHub Stats:
