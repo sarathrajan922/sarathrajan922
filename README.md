@@ -1,5 +1,4 @@
 
-## 🌐 Socials:
 <h1 align="center"> Hey 👋🏽, I'm Sarath Rajan </h1>
 
 <h3 align="center">
