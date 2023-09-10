@@ -34,8 +34,9 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-<code><img height="75" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/typescript_alt_icon_131915.png"></code>
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/typescript_alt_icon_131915.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332634/tech%20stack%20logos/bootstrap-responsive-web-design-web-development-logo-django-others-d7ec880588af75918aa8bc2ad69bd1a4_iicqdr.png"></code>&nbsp;&nbsp;
 
 </p>
 
