@@ -44,8 +44,8 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="60" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694341084/tech%20stack%20logos/file-type-typescript-icon-original_1_unb7cg.svg"></code> &nbsp;&nbsp;
     <code><img height="75"  src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/node-js-javascript-web-server-scalable-vector-graphics-chrome-v8-vue-js-5b619bdaf2840e99d57f52cd30a7970b_v6sb5f.png"></code>&nbsp;&nbsp;
-<code><img height="80" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332634/tech%20stack%20logos/bootstrap-responsive-web-design-web-development-logo-django-others-d7ec880588af75918aa8bc2ad69bd1a4_iicqdr.png"></code>&nbsp;&nbsp;
-<code><img height="65" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/mean-solution-stack-express-js-node-js-javascript-github-acfc77777dd3c5165cd1ac3f95631063_tnw94d.png"></code>&nbsp;&nbsp;
+<code><img height="60" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348398/tech%20stack%20logos/bootstrap-icon-original_y5uwqu.svg"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348689/tech%20stack%20logos/express-icon-original_twa8qr.svg"></code>&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -54,8 +54,8 @@
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332634/tech%20stack%20logos/5bb91849c5acf-eac57903ed7aa3ad7867866475facf7c_kj2qft.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/java-platform-enterprise-edition-java-platform-standard-edition-javaserver-pages-java-development-kit-others-82f3102642ddd063adca1c88786e7494_zriicz.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/mongodb-logo-database-nosql-sql-logo-a9212af03e30e3a90d55b270db441373_vkriov.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332636/tech%20stack%20logos/webpack-babel-source-to-source-compiler-javascript-npm-js-eb409b614b00eefa305d81ce7e08dff7_nbzn75.png"></code> &nbsp;&nbsp;
-    <code><img height="70" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/visual-studio-code-microsoft-visual-studio-source-code-editor-c-4d7583d9e6de05ca2d58df35c986a05b_g3ndcx.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348399/tech%20stack%20logos/babel-icon-original_ttn9y1.svg"></code> &nbsp;&nbsp;
+    <code><img height="70" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348399/tech%20stack%20logos/file-type-vscode-icon-original_ncgw7f.svg"></code>&nbsp;&nbsp;
 <code><img height="80" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332636/tech%20stack%20logos/mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3_qol01v.png"></code>&nbsp;&nbsp;
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/webpack-gulp-js-npm-grunt-github-github-62d7bbe0bd88b35c0573b5298e8cd081_fpmjjh.png"></code>&nbsp;&nbsp;
 
