@@ -57,7 +57,7 @@
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332636/tech%20stack%20logos/webpack-babel-source-to-source-compiler-javascript-npm-js-eb409b614b00eefa305d81ce7e08dff7_nbzn75.png"></code> &nbsp;&nbsp;
     <code><img height="70" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/visual-studio-code-microsoft-visual-studio-source-code-editor-c-4d7583d9e6de05ca2d58df35c986a05b_g3ndcx.png"></code>&nbsp;&nbsp;
 <code><img height="80" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332636/tech%20stack%20logos/mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3_qol01v.png"></code>&nbsp;&nbsp;
-<code><img height="65" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694332635/tech%20stack%20logos/webpack-gulp-js-npm-grunt-github-github-62d7bbe0bd88b35c0573b5298e8cd081_fpmjjh.png"></code>&nbsp;&nbsp;
+
 </p>
 <br/>
 
