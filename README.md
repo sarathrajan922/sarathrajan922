@@ -4,6 +4,22 @@
 <h3 align="center">
     MERN Stack Developer🚀.  
 </h3>
+
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
+- **Responsive ✅**
+- **Intuitive 🤩**
+- **Dynamic 🧬**
+- **Reusable ♻️**
+- **Secure 🛡️**
+- **Load blazing fast 🚀**
+- **SEO Optimized 🔍**
+- **Crafted with pixel-perfect code ✨**
+
+
+<br/>
+<br/>
+
 <br/>
 
 # 💻 Tech Stack:
