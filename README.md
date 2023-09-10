@@ -35,7 +35,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
-<code><img height="75" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ftypescript-logo%2F144782&psig=AOvVaw3JWqQcyGx5jwM-yne1-zaL&ust=1694417958993000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDL2_bEn4EDFQAAAAAdAAAAABAI"></code>
+<code><img height="75" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/typescript_alt_icon_131915.png"></code>
 
 </p>
 
