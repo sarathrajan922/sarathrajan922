@@ -33,7 +33,6 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>&nbsp;&nbsp;
 </p>
-
 <br/>
 
 <p align="center">
@@ -45,7 +44,6 @@
 <code><img height="60" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348398/tech%20stack%20logos/bootstrap-icon-original_y5uwqu.svg"></code>&nbsp;&nbsp;
 <code><img height="75" src="https://res.cloudinary.com/dk4darniv/image/upload/v1694348689/tech%20stack%20logos/express-icon-original_twa8qr.svg"></code>&nbsp;&nbsp;
 </p>
-
 <br/>
 
 <p align="center">
