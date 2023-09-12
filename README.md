@@ -18,7 +18,6 @@
 - **Load blazing fast 🚀**
 - **SEO Optimized 🔍**
 
-
 <br/>
 <br/>
 
