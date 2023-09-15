@@ -2,7 +2,6 @@
 <h3 align="center">
     MERN Stack Developer🚀.   
 </h3>
-
 <br/>
 <h2 align="center">
     I create user experiences that are:
