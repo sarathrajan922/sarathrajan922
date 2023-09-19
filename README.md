@@ -70,8 +70,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarathrajan922&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathrajan922&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarathrajan922&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
