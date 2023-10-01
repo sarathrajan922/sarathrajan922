@@ -7,9 +7,6 @@
     I create user experiences that are:
 </h2>
 
-
-
-
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - **Responsive ✅**
