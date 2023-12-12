@@ -22,7 +22,6 @@
 <br/>
 
 
-
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
